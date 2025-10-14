@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [http://dlportfolio.personatab.com](http://dlportfolio.personatab.com)
+- 👨‍💻 All of my projects are available at [http://dl-portfolio.peytg.com](http://dlportfolio.personatab.com)
 
 - 📫 How to reach me **dldoesvisuals@gmail.com**
 
