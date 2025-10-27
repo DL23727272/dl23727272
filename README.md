@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ykdl_" target="blank"><img src="https://img.shields.io/twitter/follow/ykdl_?logo=twitter&style=for-the-badge" alt="ykdl_" /></a> </p>
 
-- 🔭 I’m currently working on [PersonaTab](http://personatab.atwebpages.com)
+- 🔭 I’m currently working on [ISPSC-Website](https://ispsc-website.vercel.app/) 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React + Laravel**
 
 - 👨‍💻 All of my projects are available at [http://dl-portfolio.peytg.com](http://dlportfolio.personatab.com)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ykdl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ykdl_" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ykdl_" height="30" width="40" /></a>
 <a href="https://fb.com/dran leynard gamoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dran leynard gamoso" height="30" width="40" /></a>
 <a href="https://instagram.com/_youngdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_youngdl" height="30" width="40" /></a>
 </p>
