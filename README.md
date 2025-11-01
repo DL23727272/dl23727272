@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React + Laravel**
 
-- 👨‍💻 All of my projects are available at [http://dl-portfolio.peytg.com](http://dlportfolio.personatab.com)
+- 👨‍💻 All of my projects are available at [[http://dl-portfolio.peytg.com](https://dl-visuals.vercel.app/)].
 
 - 📫 How to reach me **dldoesvisuals@gmail.com**
 
